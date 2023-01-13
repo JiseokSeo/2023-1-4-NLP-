@@ -23,7 +23,7 @@ https://road-slug-941.notion.site/TF-b919f7e63a6f499bb3ed2d669e29256a
 2023-01-10  
 전처리3 추가  
 
-2023-01-11
+2023-01-11  
 menu_concated_v1.3으로 업데이트  
 
 2023-01-12  
