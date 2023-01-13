@@ -24,3 +24,6 @@ https://road-slug-941.notion.site/TF-b919f7e63a6f499bb3ed2d669e29256a
 
 ### 2023-01-10  
 전처리3 추가 
+
+### 2023-01-12  
+코사인 유사도와 word2vec 시도 노트북 추가
